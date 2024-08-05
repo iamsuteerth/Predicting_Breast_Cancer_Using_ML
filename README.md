@@ -90,8 +90,4 @@ This project provides a comprehensive guide to applying machine learning techniq
 ---
 
 ## Acknowledgements
-We would like to acknowledge the UCI Machine Learning Repository for providing the dataset used in this project.
-
----
-
-This README file can be modified further to include additional details or specific instructions as needed. Let me know if you need any changes or further customization!
+I would like to acknowledge the UCI Machine Learning Repository for providing the dataset used in this project.
